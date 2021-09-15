@@ -1,0 +1,8 @@
+#funcao range - argumentos
+#range  ( inicio, terminio, salto):
+
+for i in range(1, 21):
+    print(i)
+
+for i in range(0, 51, 5):
+    print(i)
